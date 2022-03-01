@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new sonnet, shewing how the goddesse Diana transformed Acteon into the shape of an Hart. To the tune of, Rogero.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04588</idno>
+            <idno type="STC">Wing N776D</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[29]</idno>
+            <idno type="EEBO-CITATION">99887559</idno>
+            <idno type="PROQUEST">ocm99887559</idno>
+            <idno type="VID">182287</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182287)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new sonnet, shewing how the goddesse Diana transformed Acteon into the shape of an Hart. To the tune of, Rogero.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.W. dwelling in the Old-Bayly.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Verse: "Diana and her darlings dears ..."</note>
+                  <note>Includes: A lullaby.</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Imperfect: Mutilated, affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182287:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>A new Sonnet, ſhewing how the Goddeſſe <hi>Diane</hi> transformed <hi>Acteon</hi> into the ſhape of an Hart.</head>
+            <opener>To the tune of, <hi>Rogero.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Diana</hi> and her Darlings Deare</l>
+                  <l>went walking on a Day,</l>
+                  <l>Throughout the Woods and waters clear,</l>
+                  <l>for their diſport and play:</l>
+                  <l>The leaves aloft were gay and gréen,</l>
+                  <l>and pleaſant to behold,</l>
+                  <l>Theſe Nymphs they walkt the Trées be<g ref="char:EOLhyphen"/>twéen,</l>
+                  <l>under the ſhadow cold</l>
+                  <l>So long at laſt they found a place</l>
+                  <l>Of ſprings and waters cleare,</l>
+                  <l>A fairer Bath their never was</l>
+                  <l>found out this thouſand yeare:</l>
+                  <l>Wherein <hi>Diana</hi> daintily</l>
+                  <l>her ſelfe began to bathe,</l>
+                  <l>And all her Virgins faire and pure</l>
+                  <l>themſelves did waſh and lave.</l>
+                  <l>And as the Nymphs in water ſtood,</l>
+                  <l>
+                     <hi>Acteon</hi> paſſed by</l>
+                  <l>As he came running through the Wood</l>
+                  <l>on them he caſt his eye,</l>
+                  <l>And eke behold their bodies bare,</l>
+                  <l>then prenſently that Live:</l>
+                  <l>And as the Nymphs of him were ware,</l>
+                  <l>with voyce aloud they cry'd,</l>
+                  <l>And cloſ'd <hi>Diana</hi> round about,</l>
+                  <l>to hide her body ſmall</l>
+                  <l>Yet ſhe was higheſt in the rout,</l>
+                  <l>and ſeene above them all.</l>
+                  <l>And when <hi>Diana</hi> did perceive</l>
+                  <l>where <hi>Acteon</hi> did ſtand,</l>
+                  <l>A furious look to him ſhe gave,</l>
+                  <l>and took her Bow in hand;</l>
+                  <l>And as ſhe was about to ſhoot,</l>
+                  <l>
+                     <hi>Acteon</hi> began to run</l>
+                  <l>To bide he thought is was to boot,</l>
+                  <l>his former fights were done:</l>
+                  <l>And as he thought from her to ſcape.</l>
+                  <l>ſhe brought it ſo to paſſe,</l>
+                  <l>
+                     <gap reason="illegible: damage" extent="7 letters">
+                        <desc>〈7 letters〉</desc>
+                     </gap>inent ſhe chang'd his ſhape,</l>
+                  <l>
+                     <gap reason="illegible: damage" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>en running as he was.</l>
+                  <l>Each Goddeſſe took <hi>Diana</hi>'s part,</l>
+                  <l>
+                     <hi>Acteon</hi> to transforme</l>
+                  <l>To make of him a huge wild Hart,</l>
+                  <l>there they did all determe;</l>
+                  <l>His ſkin that was ſo fine and faire,</l>
+                  <l>was made a tawnie red,</l>
+                  <l>His Body overgrowne with haire,</l>
+                  <l>from foot unto the head;</l>
+                  <l>And on his head great hornes were ſet,</l>
+                  <l>moſt monſtrous to behold,</l>
+                  <l>A huger Hart was never met,</l>
+                  <l>nor ſée upon the Mould;</l>
+                  <l>His eares his eyes, his face full faire,</l>
+                  <l>transformed were full ſtrange,</l>
+                  <l>His hands for féet compelled were</l>
+                  <l>throughout the Wood to range.</l>
+                  <l>Thus was he made a perfect Hart,</l>
+                  <l>and waxed fierce and grim,</l>
+                  <l>His former ſhapes did cleane depart</l>
+                  <l>from every joynt and limb:</l>
+                  <l>But ſtill his memory did remaine,</l>
+                  <l>although he might not ſpeake,</l>
+                  <l>Nor yet among his friends complaine,</l>
+                  <l>his wofull minde to breake,</l>
+                  <l>At length he thought for to repaire,</l>
+                  <l>home to his dwelling place;</l>
+                  <l>Anon his Hounds of him were ware,</l>
+                  <l>and gan to try a pace:</l>
+                  <l>Then <hi>Acteon</hi> was ſore agaſt,</l>
+                  <l>his Hounds would him devoure,</l>
+                  <l>And from them then he fled full faſt,</l>
+                  <l>with all his might and power;</l>
+                  <l>He ſpared neither Buſh nor Brake,</l>
+                  <l>but ran through thick and thin,</l>
+                  <l>With all the ſwiftneſſe he could make,</l>
+                  <l>in hope to ſave his skin:</l>
+                  <l>Yet were his hounds ſo neare his tayle,</l>
+                  <l>and f<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llowed him ſo faſt,</l>
+                  <l>His running might not him avail;</l>
+                  <l>for all his ſpeed and haſte.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part,</head>
+               <opener>to the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>FOr why, his Hounds would never lin,</l>
+                  <l>till him they overtook,</l>
+                  <l>And then they rent and tore the ſkin,</l>
+                  <l>and all his body ſhook:</l>
+                  <l>I am your Maſter <hi>Acteon,</hi>
+                  </l>
+                  <l>then cry'd he to his Hounds,</l>
+                  <l>And made to them moſt rufull moane,</l>
+                  <l>with ſhrill lamenting ſounds.</l>
+               </lg>
+               <lg>
+                  <l>I have been he that gave you food,</l>
+                  <l>wherein I did delight,</l>
+                  <l>Wherefore ſuck not your maſters bloud,</l>
+                  <l>his feiendſhip to requite:</l>
+                  <l>But thoſe Curres of a curſed kind,</l>
+                  <l>of him had no remorſe</l>
+                  <l>Although he was their deareſt friend,</l>
+                  <l>they pul'd him downe by force.</l>
+               </lg>
+               <lg>
+                  <l>There was no man to take his part,</l>
+                  <l>the ſtory telleth plaine;</l>
+                  <l>Thus <hi>Acteon</hi> formed like a Hart,</l>
+                  <l>amongſt the Dogs was ſlaine.</l>
+                  <l>Your Hunters all that range the Woods</l>
+                  <l>although you riſe up rath.</l>
+                  <l>Beware you come not néer the Floods</l>
+                  <l>where Virgins uſe to bathe.</l>
+               </lg>
+               <lg>
+                  <l>For if <hi>Diana</hi> you eſpy</l>
+                  <l>among her Darlings deare</l>
+                  <l>Your former ſhape ſhe ſhall diſguiſe,</l>
+                  <l>and make you hornes to weare.</l>
+                  <l>And ſo I now conclude my Song,</l>
+                  <l>having no more to alledge,</l>
+                  <l>If <hi>Acteon</hi> had right or wrong,</l>
+                  <l>let all faire Virgins judge.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="lullaby">
+            <head>A Lullaby</head>
+            <lg>
+               <l>COme little Babe, come ſilly Soule,</l>
+               <l>thy Fathers ſhame &amp; Mothers grief,</l>
+               <l>Borne (as I doubt) to all our doles,</l>
+               <l>and to thy ſelf unpappy chief:</l>
+               <l>Sing Lullaby, and wrap it warme,</l>
+               <l>Poore Soul it thinks no creature harm.</l>
+            </lg>
+            <lg>
+               <l>Thou little think'ſt, and leaſt doſt know</l>
+               <l>the cauſe of this his Mothers moane,</l>
+               <l>Thou wantſt the wit to wayle her woe,</l>
+               <l>and I my ſelf am all alone:</l>
+               <l>Why doſt thou weep, why doſt thou wail,</l>
+               <l>And knowſt not now what thou doſt ail?</l>
+            </lg>
+            <lg>
+               <l>Come little wretch, ah ſilly heart!</l>
+               <l>mine onely joy, what can I more?</l>
+               <l>If there be any wrong thy ſmart,</l>
+               <l>that may thy deſtinie, deplore;</l>
+               <l>'Twas I, I ſay againſt my will,</l>
+               <l>I waile the time, but be thou ſtill.</l>
+            </lg>
+            <lg>
+               <l>And doſt thou ſmile? Oh thy ſweet face,</l>
+               <l>I would thy Dad the ſame might ſee,</l>
+               <l>No doubt but it would purchaſe grace,</l>
+               <l>I know it well, for thee and me:</l>
+               <l>But come to Mother, Babe, and play,</l>
+               <l>For Father falſe is fled away.</l>
+            </lg>
+            <lg>
+               <l>Sweet Boy, if it thy fortune chance.</l>
+               <l>thy Father home againe to ſend,</l>
+               <l>If Death doth ſtrike me with his Lance,</l>
+               <l>yet may'ſt thou me commend?</l>
+               <l>If any aske thy Mothers name,</l>
+               <l>Tell how by love ſhe purchas'd blame.</l>
+            </lg>
+            <lg>
+               <l>Then will his gentle heart ſoon yeeld,</l>
+               <l>I know him of a noble mind,</l>
+               <l>Although a Lyon in the field,</l>
+               <l>a Lamb in Town thou ſhalt him find,</l>
+               <l>Ask bleſſing Lad, be not afraid,</l>
+               <l>His ſugred lips have me betray'd.</l>
+            </lg>
+            <lg>
+               <l>Then may'ſt thou joy and be right glad,</l>
+               <l>although in woe I ſeeme to moane:</l>
+               <l>Thy Father is no raſcall Lad,</l>
+               <l>a noble Youth of blood and bone;</l>
+               <l>His glancing look, if he once ſmile,</l>
+               <l>Right honeſt Woman will beguile.</l>
+            </lg>
+            <lg>
+               <l>Come little Boy, and rock aſleep,</l>
+               <l>ſing Lullaby, and be thou ſtill,</l>
+               <l>I that can doe nought elſe but weep,</l>
+               <l>will ſit by thee and Lullaby,</l>
+               <l>God bleſſe my Babe and Lullaby</l>
+               <l>From this his Fathers quality.</l>
+            </lg>
+            <trailer>Finis</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London, Printed for J. W. dwelling in the Old-Bayly.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
